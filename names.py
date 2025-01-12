@@ -1,3 +1,5 @@
 first_name = (input('Please enter your first name '))
 last_name = (input('Please enter your last name '))
+church = (input('Please enter the name of your church '))
 print(f'My full name is {first_name} {last_name}')
+print(f'I am a member of {church} church')
